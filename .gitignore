@@ -1,0 +1,20 @@
+# MATLAB tools and cache files
+*.asv
+*.mat
+*.mex*
+*.p
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Project local archival or raw design zips (Keep repo clean)
+*.zip
+*.rar
+tree.txt
+Textdokument*.txt
+
+# Ignore specific device or dynamic backup directories from tree
+**/Recycle/
+**/recycle/
+**/backup/
