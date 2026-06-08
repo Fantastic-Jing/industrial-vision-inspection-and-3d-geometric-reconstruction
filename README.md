@@ -1,4 +1,4 @@
-# Industrial Computer Vision Sandbox: From Sensor Noise to 3D Stereo Reconstruction
+# Industrial Vision Inspection and 3D Geometric Reconstruction: From Sensor to 3D Stereo Reconstruction
 
 This repository implements an end-to-end industrial computer vision pipeline, bridging the gap between hardware sensor physics and geometric vision algorithms. The project utilizes physical industrial camera networks to validate theoretical vision models under strict quantitative error benchmarks.
 
